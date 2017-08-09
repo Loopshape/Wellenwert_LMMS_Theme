@@ -9,12 +9,13 @@ Greetings,
 Loopshape aka. "Wellenwert"
 
 
-Homepage: 
-//awebgoblog.wordpress.com/
+---
+Homepage (personal Blog for WebDevelopment): 
+https://awebgoblog.wordpress.com/
 
-Soundcloud-Account: 
-//soundcloud.com/Wellenwert
-
+---
+Soundcloud-Account with Tracks, produced with LMMS: 
+https://soundcloud.com/wellenwert
 
 ---
 ps: Take a look in the Screenshot...
