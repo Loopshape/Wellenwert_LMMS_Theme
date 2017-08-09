@@ -9,8 +9,15 @@ Greetings,
 Loopshape aka. "Wellenwert"
 
 
-ps: Take a look in the Screenshot...
+Homepage: 
+//awebgoblog.wordpress.com/
 
+Soundcloud-Account: 
+//soundcloud.com/Wellenwert
+
+
+---
+ps: Take a look in the Screenshot...
 
 ---
 The modified Wellenwert-Theme is based on some multiple uploads, that were put together and recolored: 
