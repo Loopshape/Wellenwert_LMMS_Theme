@@ -11,7 +11,8 @@ Loopshape aka. "Wellenwert"
 
 
 ---
-ps: Take a look in the Screenshot...
+ps: Take a look into the Screenshot...
+pps: A concrete definition of the autor from the original themes will be credited in the readme-file, when I've found the names from their themes, that were used!!!
 
 ---
 Soundcloud-Account with Tracks, produced with LMMS: 

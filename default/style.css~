@@ -1,14 +1,27 @@
 /********************
  * LMMS style sheet *
  ********************/
+ 
+ /* 
+        WELLENWERT – LMMS THEME
+        -----------------------
+        Adapted, modified and further coded by: Loopshape <webscreen.designer@gmail.com>
+        Website-Blog: //awebgoblog.wordpress.com/
+ */
 
+/******* Original Theme based on other Author!!! ******************************/
+ 
 /* most foreground text items */
 QLabel, QTreeWidget, QListWidget, QGroupBox {
 	color: #9da4b0;
 }
 
 QMdiArea {
-	background-image: url(resources:background_artwork.png);
+	background-image: url(resources:wallpaper.jpg);
+	background-size: 1 !important;
+        background-width: 100% !important;
+        background-height: auto !important;
+	
 }
 
 AutomationEditor {
@@ -32,8 +45,8 @@ PianoRoll {
 	background-color: #001f27;
 	qproperty-gridColor: #094554;
 	qproperty-noteModeColor: #9da4b0;
-	qproperty-noteColor: #528bff;
-	qproperty-barColor: #771004;
+	qproperty-noteColor: #771004;/*#528bff;*/
+	qproperty-barColor: #72ffb6;
 }
 
 /* text box */
@@ -57,7 +70,7 @@ QToolTip {
 	background: qlineargradient(spread:reflect, x1:0.5, y1:0.5, x2:0.5, y2:0, stop:0 rgba(0, 0, 0, 255), stop:1 rgba(50, 50, 50, 220));
 	opacity: 175;
 	border: 1.0px solid rgba(0,0,0,255);
-	color: #4afd85;
+	color: #fcd000;/*#4afd85;*/
 }
 
 textFloat {
@@ -65,7 +78,7 @@ textFloat {
 	background: qlineargradient(spread:reflect, x1:0.5, y1:0.5, x2:0.5, y2:0, stop:0 rgba(0, 0, 0, 255), stop:1 rgba(50, 50, 50, 220));
 	opacity: 175;
 	border: 1.0px solid rgba(0,0,0,255);
-	color: #4afd85;
+	color: #fcd000;/*#4afd85;*/
 }
 
 
@@ -534,7 +547,7 @@ timeLine {
 }
 
 QTreeView {
-	alternate-background-color: #222222;
+	alternate-background-color: #182028;
 }
 
 TrackContainerView QLabel
@@ -567,7 +580,7 @@ AutomationPatternView {
 
 /* bb-pattern */
 bbTCOView {
-	color: #dae4e6;
+	color: #771008;
 	qproperty-textColor: rgb( 255, 255, 255 );
 }
 
@@ -784,3 +797,20 @@ LmmsPalette {
 	qproperty-toolTipText: #000;
 	qproperty-toolTipBase: #c9c9c9;
 }
+
+/******************************************************************************/
+/*      EXTENDED-CSS3 coded by Loopshape <webscreen.designer@gmail.com>       */
+/******************************************************************************/
+
+*,
+section,
+div,
+LmmsPalette {
+        background-image: none !important;
+        text-color: #fcd000 !important;
+        font-weight: bold !important;
+        background-color: #182028 !important;
+}
+
+/******************************************************************************/
+
