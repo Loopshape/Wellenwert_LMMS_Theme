@@ -11,7 +11,7 @@ Loopshape aka. "Wellenwert"
 
 
 ---
-ps: Take a look in the Screenshot...
+ps: Take a look into the Screenshot folder...
 
 ---
 Soundcloud-Account with Tracks, produced with LMMS: 
