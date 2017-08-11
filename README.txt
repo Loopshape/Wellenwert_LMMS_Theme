@@ -17,19 +17,20 @@ DESCRIPTION:
 
 >>> Wellenwert – LMMS Theme <<< 
 
-Gratulation for downloading the colorful "Wellenwert" theme for LMMS! I hope you'll be happy with this awesome colors, as I'm doing.
+Gratulation for downloading the colorful "Wellenwert" theme for LMMS! 
+I hope you'll be happy with this awesome colors, as I'm doing. 
 I've modified icons and created a colorful palette with a widen spectrum of all possible color-values that could be combined together!!! 
 This theme is based originally on another "dark" theme from another author, 
-that was modified by me with a recolored icon-stack and a modified CSS-scriptfile, that belongs also to the package.
+that was modified by me with a recolored icon-stack and a modified CSS-scriptfile, that belongs also to the package. 
 
-...enjoy!
+...enjoy! 
 
 -----------------------
 
-DISCLAIMER:
+DISCLAIMER: 
 
-> Some credits goes out to the original creator of the dark theme, that the "Wellenwert – LMMS Theme" is based on.
-> I have to search the original theme out of the LMMS.io website first, then I can say, which theme was chosen... sorry!
+> Some credits goes out to the original creator of the dark theme, that the "Wellenwert – LMMS Theme" is based on. 
+> I have to search the original theme out of the LMMS.io website first, then I can say, which theme was chosen... sorry! 
 
 -----------------------
 
