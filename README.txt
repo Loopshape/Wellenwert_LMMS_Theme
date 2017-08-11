@@ -1,13 +1,13 @@
-----------------------------
-WELLENWERT – LMMS THEME !!!!
-Created by Loopshape in 2017
-----------------------------
+--------------------------------------
+---- WELLENWERT – LMMS THEME      ----
+---- Created by Loopshape in 2017 ----
+--------------------------------------
 
 
 INFORMATION: 
 
 This is a custom theme-package for the famous Linux-Multimedia-Studio (called short: LMMS)!
-I've taken some of the dark-themes from the LMMS-website and changed some color informations of the theme-palette.
+
 Just copy the content of the inner ZIP-archiv into the default-folder within "/usr/share/lmms/themes". 
 Restart LMMS, there'ya go!!!
 
@@ -17,7 +17,8 @@ DESCRIPTION:
 
 >>> Wellenwert – LMMS Theme <<< 
 
-I modified icons and created a colorful palette with a widen spectrum of all possible color-values that could be combined together!!! 
+Gratulation for downloading the colorful "Wellenwert" theme for LMMS! I hope you'll be happy with this awesome colors, as I'm doing.
+I've modified icons and created a colorful palette with a widen spectrum of all possible color-values that could be combined together!!! 
 This theme is based originally on another "dark" theme from another author, 
 that was modified by me with a recolored icon-stack and a modified CSS-scriptfile, that belongs also to the package.
 
