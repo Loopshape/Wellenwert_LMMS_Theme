@@ -8,10 +8,12 @@ INFORMATION:
 
 This is a custom theme-package for the famous Linux-Multimedia-Studio (called short: LMMS)!
 
-Just copy the content of the inner ZIP-archiv into the default-folder within "/usr/share/lmms/themes". 
-Restart LMMS, there'ya go!!!
+Just copy the content of the inner ZIP-archiv 
+into the default-folder within "/usr/share/lmms/themes". 
 
------------------------
+-> Restart LMMS, there'ya go!!!
+
+--------------------------------------------------------------------------------------------
 
 DESCRIPTION: 
 
@@ -25,29 +27,29 @@ that was modified by me with a recolored icon-stack and a modified CSS-scriptfil
 
 ...enjoy! 
 
------------------------
+--------------------------------------------------------------------------------------------
 
 DISCLAIMER: 
 
 > Some credits goes out to the original creator of the dark theme, that the "Wellenwert – LMMS Theme" is based on. 
 > I have to search the original theme out of the LMMS.io website first, then I can say, which theme was chosen... sorry! 
 
------------------------
+--------------------------------------------------------------------------------------------
 
 To see a screenshot visit this G+ Drive-File: 
 https://drive.google.com/open?id=0B_UgXt41KnXhaHJRMVlJRG9uZkU 
 
------------------------
+--------------------------------------------------------------------------------------------
 
 FileMirror (regularly, the latest uploads can be found here!): 
 https://github.com/Loopshape/Wellenwert_LMMS_Theme 
 
------------------------
+--------------------------------------------------------------------------------------------
 
 "WELLENWERT" – Soundcloud-Account with Tracks, that were produced with LMMS: 
 https://soundcloud.com/wellenwert 
 
------------------------
+--------------------------------------------------------------------------------------------
 
 Homepage (personal Blog for WebDevelopment) from Loopshape [Theme Autor/Modifier]: 
 https://awebgoblog.wordpress.com/
