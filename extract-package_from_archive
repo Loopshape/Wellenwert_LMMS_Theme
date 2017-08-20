@@ -1,0 +1,2 @@
+#!/bin/sh -e
+sudo unzip LMMS_Wellenwert-Theme_Package-current.zip -d .

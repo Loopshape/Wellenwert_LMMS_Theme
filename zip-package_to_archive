@@ -1,0 +1,3 @@
+#!/bin/sh -e
+zip -r LMMS_Wellenwert-Theme_Package-current.zip ./LMMS_Theme
+
