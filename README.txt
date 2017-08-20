@@ -29,6 +29,23 @@ that was modified by me with a recolored icon-stack and a modified CSS-scriptfil
 
 --------------------------------------------------------------------------------------------
 
+I've added some automation-scripts for the bash-shell! 
+If you want to use these scripts for compiling, zipping and extracting the theme-folder, 
+please install Node.JS first: 
+
+> sudo apt-get update -y [ENTER]
+> sudo apt-get install -fy sudo gksu nano nodejs-legacy npm zip unzip [ENTER]
+> sudo npm i -g n [ENTER]
+> sudo n latest [ENTER]
+> sudo npm i -g npm [ENTER]
+> sudo npm i -g compass sass less fis-parser-node-sass-qt [ENTER]
+
+...when all commands are executed, then all needed files were installed for compiling. 
+You can now start to modifiy the ".scss" file in the LMMS_Theme folder and compile it via
+the predefined automation-scripts in the main theme-folder.
+
+--------------------------------------------------------------------------------------------
+
 DISCLAIMER: 
 
 > Some credits goes out to the original creator of the dark theme, that the "Wellenwert – LMMS Theme" is based on. 
@@ -36,21 +53,21 @@ DISCLAIMER:
 
 --------------------------------------------------------------------------------------------
 
-To see a screenshot visit this G+ Drive-File: 
+To see a screenshot visit this G+ Drive-File : 
 https://drive.google.com/open?id=0B_UgXt41KnXhaHJRMVlJRG9uZkU 
 
 --------------------------------------------------------------------------------------------
 
-FileMirror (regularly, the latest uploads can be found here!): 
+FileMirror (regularly, the latest uploads can be found here!) : 
 https://github.com/Loopshape/Wellenwert_LMMS_Theme 
 
 --------------------------------------------------------------------------------------------
 
-"WELLENWERT" – Soundcloud-Account with Tracks, that were produced with LMMS: 
+"WELLENWERT" – Soundcloud-Account with Tracks, that were produced with LMMS : 
 https://soundcloud.com/wellenwert 
 
 --------------------------------------------------------------------------------------------
 
-Homepage (personal Blog for WebDevelopment) from Loopshape [Theme Autor/Modifier]: 
+Homepage (personal Blog for WebDevelopment) from Loopshape [Theme Autor/Modifier] : 
 https://awebgoblog.wordpress.com/
 
