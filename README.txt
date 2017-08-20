@@ -29,6 +29,8 @@ that was modified by me with a recolored icon-stack and a modified CSS-scriptfil
 
 --------------------------------------------------------------------------------------------
 
+AUTOMATION-SCRIPTS on Debian :
+
 I've added some automation-scripts for the bash-shell! 
 If you want to use these scripts for compiling, zipping and extracting the theme-folder, 
 please install Node.JS first: 
