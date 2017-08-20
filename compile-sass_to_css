@@ -1,0 +1,7 @@
+#!/bin/sh -e
+sass ./LMMS_Theme/style.scss -s expanded -c color
+
+echo "\n";
+echo "The SASS file has been converted into CSS...";
+echo "\n";
+
