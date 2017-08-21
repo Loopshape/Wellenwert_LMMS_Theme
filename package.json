@@ -1,0 +1,37 @@
+{
+  "name": "lmms.wellenwert-theme",
+  "version": "1.0.0",
+  "description": "linux-multimedia-studio colored scheme for skinning interface",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "nop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loopshape/Wellenwert_LMMS_Theme.git"
+  },
+  "keywords": [
+    "lmms",
+    "music",
+    "sequencer",
+    "theme",
+    "design",
+    "colored",
+    "scheme",
+    "interface",
+    "modern",
+    "dark",
+    "glow",
+    "light"
+  ],
+  "author": "Aris Arjuna Noorsanto aka. LOOPSHAPE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Loopshape/Wellenwert_LMMS_Theme/issues"
+  },
+  "homepage": "https://github.com/Loopshape/Wellenwert_LMMS_Theme#readme"
+}
