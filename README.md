@@ -3,6 +3,7 @@
 ---- Created by Loopshape in 2017 ----
 --------------------------------------
 
+![current Screenshot](https://github.com/Loopshape/Wellenwert_LMMS_Theme/blob/master/Application%20Screenhot/Screenshot%202.png?raw=true)
 
 INFORMATION: 
 
